@@ -1,6 +1,6 @@
 # 👋 Hi!, I'm Luis 
 
-**Communications and Electronics Engineer** looking forward to contribute to open-source projects.
+**Communications and Electronics Engineer** looking forward to collaborate on open-source projects.
 
 ## 🛠️ Skills
 
