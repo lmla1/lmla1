@@ -1,15 +1,15 @@
-# 👋 Hello, I'm Luis Lopez
+# 👋 Hi!, I'm Luis 
 
 **Communications and Electronics Engineer** looking forward to contribute to open-source projects.
 
 ## 🛠️ Skills
 
 - **Programming Languages:**
-  - ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-  - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  - ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+  - ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+  - ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+  - ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+  - ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
 
 - **Web Development:**
   - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
